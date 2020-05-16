@@ -2,6 +2,12 @@
 
 ## Project setup
 ```
+copy file .env.example and then paste with name
+1. .env.developmet ==> for developmet
+2. .env.developmet ==> for production
+```
+
+```
 npm install
 ```
 
